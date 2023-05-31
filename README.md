@@ -17,3 +17,5 @@ Then, you have the following Rows:
 - Name of Process = A B C D
 - Time to complete each task
 - Arrival time
+
+It's possible to change the Quantum and add new process. Just remember to add time and arrival also :)
