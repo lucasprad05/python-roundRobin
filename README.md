@@ -14,7 +14,7 @@ Chegada 0 4 9 14
 
 The number "5" is the Quantum limit.
 Then, you have the following Rows:
-- Name of Process = A B C D
+- Process' names = A B C D
 - Time to complete each task
 - Arrival time
 
